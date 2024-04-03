@@ -1,4 +1,3 @@
-[!MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bGIwb3FmaW0za2h2bG4ybjY5eWttYTZkb2xsd2Z4cXdibW4xdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif)](https://github.com/CaioFernandesA)
 <h1 align="center">Hi 👋, I'm Caio Fernandes</h1>
 <h3 align="center">An expert developer and cyber security professional from Brazil.</h3>
 <img align="right" alt="Coding" width"400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRtNzI4ZHl2Z2pkYWtlcTQyMjJ0eHRuM214OGlzNGFvYmplMXJudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
