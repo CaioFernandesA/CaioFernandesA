@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Linux, Python and AI.**
 
-- 📫 How to reach me **caiofa1997@gmail.com**
+- 📫 How to reach me **Message me here**
 
 - ⚡ Fun fact **I don't look like a nerd.**
 
