@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiofernandesa&label=Profile%20views&color=0e75b6&style=flat" alt="caiofernandesa" /> </p>
 
-- 🔭 I’m currently working on **Kali Pentest**
+- 🔭 I’m currently working on **Kali Pentest.**
 
 - 🌱 I’m currently learning **Linux LPI International, Ethical Hacking and Generative AI.**
 
 - 💬 Ask me about **Linux, Python and AI.**
 
-- 📫 How to reach me **Message me here**
+- 📫 How to reach me **Message me here.**
 
 - ⚡ Fun fact **I don't look like a nerd.**
 
