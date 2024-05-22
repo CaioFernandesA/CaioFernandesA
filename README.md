@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Kali Pentest.**
 
-- 🌱 I’m currently learning **Linux LPI International, Ethical Hacking and Generative AI.**
+- 🌱 I’m currently learning **Linux Privilege Escalation, Ethical Hacking and Generative AI.**
 
 - 💬 Ask me about **Linux, Python and AI.**
 
