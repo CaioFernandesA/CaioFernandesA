@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Fernandes</h1>
-<h3 align="center">An expert developer and cyber security professional from Brazil.</h3>
+<h3 align="center">An expert developer and Cybersecurity professional from Brazil.</h3>
 <img align="right" alt="Coding" width"200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRtNzI4ZHl2Z2pkYWtlcTQyMjJ0eHRuM214OGlzNGFvYmplMXJudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiofernandesa&label=Profile%20views&color=0e75b6&style=flat" alt="caiofernandesa" /> </p>
